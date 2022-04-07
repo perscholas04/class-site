@@ -1,11 +1,15 @@
 const container = document.querySelector(".container")
+//const element = document.querySelector('#back')
 const  main = document.createElement("div")
+//import { back } from './bkspc.js'
 
 container.appendChild(main)
 main.style.backgroundColor = 'lightGrey'
 main.style.height = '700px'
 main.style.width = '600px'
 main.className = 'main'
+
+const sentences = ["We are smart!", "We are Learning!", "We are smarter!"]
 
 
 fetch("./class.json")
@@ -22,6 +26,6 @@ fetch("./class.json")
         }
    });
 })
-
+//back(sentences, 'back')
 
 
