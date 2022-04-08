@@ -1,8 +1,6 @@
 const container = document.querySelector(".container")
 const  main = document.createElement("div")
 
-const sentences = ["We are smart!", "We are Learning!", "We are smarter!"]
-
 fetch("./class.json")
 .then(response => {
    return response.json().then(data => {
@@ -68,7 +66,7 @@ fetch("./class.json")
    });
 })
 const run = (() =>{
-   const testString = ["Brilliant People!", "Learning more everday!", "the Future!", "PerScholas!"]
+   const testString = ["Smart!", "Creative!", "Passionate!", "Dedicated!", "The Future!", "PerScholas!"]
 
    const testElement = 'back'
    

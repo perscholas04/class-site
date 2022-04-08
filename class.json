@@ -97,18 +97,6 @@
         }
     },
     {
-    "Name" : "Jose Jurado (He/Him)",	
-    "Section" : "2022-04-RTT",
-    "Role" : "Professional Development",
-    "pic" : "pic",
-    "link" :  { 
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
-        }
-    },
-    {
     "Name" : "Bolutiwi Kilanko",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
@@ -157,21 +145,9 @@
         }
     },
     {
-    "Name" : "Shawn meighn",	
+    "Name" : "Shawn Meighn",	
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
-    "link" :  { 
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
-        }
-    },
-    {
-    "Name" : "Kayla O. Mejire",
-    "Section" : "2022-04-RTT",
-    "Role" : "Teacher",
     "pic" : "pic",
     "link" :  { 
         "facebook" : "facebook",
@@ -208,18 +184,6 @@
     "Name" : "Jamshaid Saleem",
     "Section" : "2022-04-RTT",
     "Role" : "Student",
-    "pic" : "pic",
-    "link" :  { 
-        "facebook" : "facebook",
-        "twitter" : "twitter",
-        "github" : "github",
-        "youtube" : "youtube"
-        }
-    },
-    {
-    "Name" : "Jose Santos",
-    "Section" : "2022-04-RTT",
-    "Role" : "TA",
     "pic" : "pic",
     "link" :  { 
         "facebook" : "facebook",
